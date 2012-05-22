@@ -1,9 +1,10 @@
 
 public class Bullet {
 
-	/**
-	 * @param args
-	 */
+	public Bullet ()
+	{
+		
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
